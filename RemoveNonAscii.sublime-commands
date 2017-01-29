@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Remove non Ascii characters",
+    "command": "remove_non_ascii_chars"
+  }
+]
