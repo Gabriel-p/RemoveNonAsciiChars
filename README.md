@@ -1,0 +1,1 @@
+Simple plugin to replace non-ASCII characters to ASCII by removing accents, and removing the remaining non-ASCII.
