@@ -1,6 +1,10 @@
 [
   {
-    "caption": "Remove non Ascii characters",
-    "command": "remove_non_ascii_chars"
+    "caption": "Remove non Ascii characters (File)",
+    "command": "remove_non_ascii_chars_file"
+  },
+  {
+    "caption": "Remove non Ascii characters (Select)",
+    "command": "remove_non_ascii_chars_selec"
   }
 ]

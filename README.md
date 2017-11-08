@@ -1,6 +1,7 @@
 # RemoveNonAsciiChars
 
-Simple plugin to replace non-ASCII characters to ASCII by removing accents, and removing the remaining non-ASCII.
+Simple plugin to replace non-ASCII characters to ASCII by removing accents,
+and remaining non-ASCII characters.
 
 Turns:
 
@@ -31,8 +32,10 @@ Installation via [Sublime Package Control][wbond].
 
 1. Bring out the command palette with <kbd>CTRL+SHIFT+P</kbd> (Windows,
    Linux) or <kbd>CMD+SHIFT+P</kbd> on Mac.
-2. Type `RemoveNonAsciiChars` and hit Return.
-
+2. Type `Remove Non Ascii Chars` until you see the commands.
+3. Select `Remove non Ascii characters (File)` for removing in the entire file,
+   or `Remove non Ascii characters (Select)` for removing only in the selected
+   text.
 
 ## Author
 
